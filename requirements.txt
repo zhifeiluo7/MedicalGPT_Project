@@ -11,3 +11,4 @@ trl>=0.29.0
 # bitsandbytes # not available on pypi
 latex2sympy2_extended
 math-verify==0.5.2
+torchao>0.16.0
