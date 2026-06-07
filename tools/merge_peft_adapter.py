@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author:XuMing(xuming624@qq.com)
+@firstauthor:XuMing(xuming624@qq.com)
+@Optimism:Zhifeiluo7
 @description:
 
 Usage:
