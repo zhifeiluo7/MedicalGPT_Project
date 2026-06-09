@@ -23,7 +23,6 @@ from transformers import (
     AutoTokenizer,
     AutoConfig,
     AutoModelForCausalLM,
-    AutoModelForConditionalGeneration,
     AutoModelForSequenceClassification,
 )
 
