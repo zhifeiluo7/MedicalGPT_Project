@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author:XuMing(xuming624@qq.com)
+@Optimizer:ZHifeiluo
 @description: Train R1 model with GRPO rl algo.
 """
 import os
